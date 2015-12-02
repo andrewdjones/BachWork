@@ -1,0 +1,1379 @@
+voicing,count,commonName
+"[0, 4, 5, 14]",7,lydian tetrachord
+"[0, 17, 20, 25]",4,major seventh chord
+"[0, 9, 15, 17]",10,dominant seventh chord
+"[0, 9, 16, 28]",19,minor triad
+"[0, 4, 12, 20]",26,augmented triad
+"[0, 10, 16, 22]",1,incomplete dominant-seventh chord
+"[0, 17, 24, 25]",2,incomplete major-seventh chord
+"[0, 16, 24, 33]",6,minor triad
+"[0, 17, 26, 31]",1,quartal tetramirror
+"[0, 2, 10, 15]",7,lydian tetrachord
+"[0, 9, 13, 18]",1,minor-diminished tetrachord
+"[0, 3, 19, 26]",2,major-second minor tetrachord
+"[0, 5, 8]",33,minor triad
+"[0, 17, 20, 31]",1,major-second minor tetrachord
+"[0, 3, 12, 15]",48,interval class 3
+"[0, 3, 14, 15]",10,minor trichord
+"[0, 19, 28, 36]",18,major triad
+"[0, 6, 9, 14]",134,dominant seventh chord
+"[0, 9, 17, 21]",36,major triad
+"[0, 12, 16, 23]",10,incomplete major-seventh chord
+"[0, 12, 24, 26]",6,interval class 2
+"[0, 6, 16]",7,incomplete half-diminished seventh chord
+"[0, 14, 17, 21]",69,minor seventh chord
+"[0, 13, 18]",2,tritone-fourth
+"[0, 24, 27, 33]",2,diminished triad
+"[0, 4, 10, 20]",4,augmented seventh chord
+"[0, 8, 18, 21]",1,harmonic minor tetrachord
+"[0, 6, 11, 16]",3,minor-second quartal tetrachord
+"[0, 2, 18, 24]",1,incomplete dominant-seventh chord
+"[0, 9, 14, 22]",4,phrygian tetrachord
+"[0, 17, 22, 29]",5,quartal trichord
+"[0, 16, 23, 28]",14,incomplete major-seventh chord
+"[0, 7, 19]",16,interval class 5
+"[0, 19, 22, 26]",2,perfect-fourth minor tetrachord
+"[0, 2, 7, 19]",9,quartal trichord
+"[0, 15, 18]",19,diminished triad
+"[0, 18, 24, 27]",4,diminished triad
+"[0, 10, 15, 30]",5,half-diminished seventh chord
+"[0, 6, 12, 16]",7,incomplete half-diminished seventh chord
+"[0, 2, 6]",1,incomplete dominant-seventh chord
+"[0, 8, 15, 24]",135,major triad
+"[0, 21, 29]",2,major triad
+"[0, 11, 18, 21]",2,perfect-fourth diminished tetrachord
+"[0, 1, 5, 17]",1,incomplete major-seventh chord
+"[0, 17, 22, 27]",8,quartal tetramirror
+"[0, 7, 17]",42,quartal trichord
+"[0, 9, 12]",2,interval class 3
+"[0, 10, 13, 19]",30,perfect-fourth diminished tetrachord
+"[0, 16, 20, 24]",5,augmented triad
+"[0, 11, 19, 28]",61,major seventh chord
+"[0, 8, 14, 16]",2,augmented seventh chord
+"[0, 5, 9, 16]",39,major seventh chord
+"[0, 17, 27, 32]",2,minor seventh chord
+"[0, 24]",1,unison
+"[0, 9, 14, 17]",172,minor seventh chord
+"[0, 14, 16, 26]",2,whole-tone trichord
+"[0, 10]",1,interval class 2
+"[0, 2, 10]",1,whole-tone trichord
+"[0, 22, 24, 27]",2,incomplete minor-seventh chord
+"[0, 5, 21]",3,major triad
+"[0, 27, 34, 39]",1,incomplete minor-seventh chord
+"[0, 5, 19, 24]",1,quartal trichord
+"[0, 10, 13, 20]",6,lydian tetrachord
+"[0, 2, 4, 11]",1,phrygian tetrachord
+"[0, 13, 16, 19]",2,major-diminished tetrachord
+"[0, 10, 19, 24]",34,incomplete dominant-seventh chord
+"[0, 12, 26]",2,interval class 2
+"[0, 3, 8]",71,major triad
+"[0, 12, 16, 19, 24]",1,major triad
+"[0, 22, 28, 29]",6,tritone quartal tetrachord
+"[0, 7, 12, 20]",2,incomplete major-seventh chord
+"[0, 6, 10, 13]",3,all-interval tetrachord
+"[0, 16, 21, 33]",4,minor triad
+"[0, 8, 11, 16]",6,augmented major tetrachord
+"[0, 4, 8]",3,augmented triad
+"[0, 13, 15, 24]",1,phrygian trichord
+"[0, 13, 15, 20]",12,perfect-fourth major tetrachord
+"[0, 5, 14, 16]",2,lydian tetrachord
+"[0, 7, 16, 18]",2,all-interval tetrachord
+"[0, 3, 10, 12]",21,incomplete minor-seventh chord
+"[0, 5, 12, 20]",62,minor triad
+"[0, 15, 18, 20]",139,dominant seventh chord
+"[0, 8, 16, 24]",8,augmented triad
+"[0, 7, 24, 28]",16,major triad
+"[0, 9, 12, 14]",2,incomplete dominant-seventh chord
+"[0, 3, 8, 19]",4,major seventh chord
+"[0, 22, 26, 33]",1,phrygian tetrachord
+"[0, 11, 16, 19]",60,major seventh chord
+"[0, 5, 9]",32,major triad
+"[0, 12, 24, 31]",1,interval class 5
+"[0, 13, 18, 22]",12,all-interval tetrachord
+"[0, 6, 9, 17]",1,major-diminished tetrachord
+"[0, 11, 16, 20]",2,augmented major tetrachord
+"[0, 4, 8, 11]",2,augmented major tetrachord
+"[0, 7]",11,interval class 5
+"[0, 22, 26, 29]",1,major-second major tetrachord
+"[0, 1, 5, 7]",3,minor-second quartal tetrachord
+"[0, 9]",6,interval class 3
+"[0, 12, 17, 28]",3,incomplete major-seventh chord
+"[0, 16, 19, 26]",8,major-second major tetrachord
+"[0, 10, 17, 29]",4,quartal trichord
+"[0, 14, 19, 24]",21,quartal trichord
+"[0, 12, 20, 28]",1,augmented triad
+"[0, 15, 22, 29]",11,quartal tetramirror
+"[0, 9, 15, 18]",92,diminished seventh chord
+"[0, 5, 12, 15]",29,incomplete dominant-seventh chord
+"[0, 3, 5, 10]",22,quartal tetramirror
+"[0, 8, 16]",2,augmented triad
+"[0, 14, 17, 19]",33,quartal tetramirror
+"[0, 3, 6, 15]",34,diminished triad
+"[0, 16, 31, 36]",1,major triad
+"[0, 6, 12, 15]",6,diminished triad
+"[0, 5, 7, 16]",6,perfect-fourth major tetrachord
+"[0, 12, 16, 24]",151,interval class 4
+"[0, 8, 24, 27]",3,major triad
+"[0, 2, 5]",3,incomplete minor-seventh chord
+"[0, 18, 22, 27]",11,half-diminished seventh chord
+"[0, 2, 5, 20]",2,half-diminished seventh chord
+"[0, 17, 20, 24]",8,minor triad
+"[0, 5, 10, 19]",34,quartal tetramirror
+"[0, 7, 17, 26]",13,quartal tetramirror
+"[0, 13, 17, 22]",43,major-second minor tetrachord
+"[0, 4, 12, 21]",76,minor triad
+"[0, 4, 8, 20]",2,augmented triad
+"[0, 12, 24, 27]",7,interval class 3
+"[0, 8, 18]",1,incomplete dominant-seventh chord
+"[0, 5, 17, 20]",13,minor triad
+"[0, 10, 18, 24]",9,incomplete half-diminished seventh chord
+"[0, 17, 26, 32]",1,half-diminished seventh chord
+"[0, 15, 21, 26]",2,perfect-fourth diminished tetrachord
+"[0, 3, 19, 27]",9,minor triad
+"[0, 11]",3,interval class 1
+"[0, 12, 26, 29]",2,incomplete minor-seventh chord
+"[0, 14, 16, 21]",20,perfect-fourth minor tetrachord
+"[0, 5, 22]",1,quartal trichord
+"[0, 3, 13, 20]",13,perfect-fourth major tetrachord
+"[0, 1, 3, 8]",1,perfect-fourth major tetrachord
+"[0, 17, 27]",3,incomplete dominant-seventh chord
+"[0, 6, 15, 18]",1,diminished triad
+"[0, 6, 13, 20]",1,tritone quartal tetrachord
+"[0, 10, 15, 20]",24,major-second major tetrachord
+"[0, 14, 17, 22]",33,major-second major tetrachord
+"[0, 24, 27, 32]",2,major triad
+"[0, 9, 14, 21]",5,incomplete dominant-seventh chord
+"[0, 7, 18]",1,tritone-fourth
+"[0, 7, 9, 14]",4,quartal tetramirror
+"[0, 17, 22, 28]",6,tritone quartal tetrachord
+"[0, 7, 19, 21]",3,incomplete minor-seventh chord
+"[0, 13, 19]",1,tritone-fourth
+"[0, 2, 7, 18]",3,tritone quartal tetrachord
+"[0, 15, 19]",40,minor triad
+"[0, 5, 14, 17]",13,incomplete minor-seventh chord
+"[0, 1, 8, 17]",73,major seventh chord
+"[0, 18, 28, 33]",1,half-diminished seventh chord
+"[0, 3, 10, 13]",2,minor tetramirror
+"[0, 7, 24, 29]",1,quartal trichord
+"[0, 9, 12, 15]",75,diminished triad
+"[0, 20, 26, 29]",4,half-diminished seventh chord
+"[0, 3, 8, 18]",165,dominant seventh chord
+"[0, 7, 10, 19]",7,incomplete dominant-seventh chord
+"[0, 17, 22, 26]",40,major-second major tetrachord
+"[0, 7, 16]",621,major triad
+"[0, 9, 23, 28]",1,major-second minor tetrachord
+"[0, 6, 16, 19]",6,all-interval tetrachord
+"[0, 18, 20, 32]",1,incomplete dominant-seventh chord
+"[0, 5, 22, 26]",2,major-second major tetrachord
+"[0, 10, 13, 18]",28,all-interval tetrachord
+"[0, 2, 19, 23]",6,perfect-fourth major tetrachord
+"[0, 15, 18, 23]",1,major-diminished tetrachord
+"[0, 5, 9, 17]",62,major triad
+"[0, 7, 13, 22]",6,perfect-fourth diminished tetrachord
+"[0, 16, 17, 20]",1,minor-augmented tetrachord
+"[0, 3, 7, 22]",1,minor seventh chord
+"[0, 14, 26, 31]",2,quartal trichord
+"[0, 11, 15, 16]",2,Arabian tetramirror
+"[0, 10, 12]",7,interval class 2
+"[0, 3, 15, 25]",2,phrygian trichord
+"[0, 7, 9, 17]",1,major-second major tetrachord
+"[0, 8]",3,interval class 4
+"[0, 12, 15, 19]",473,minor triad
+"[0, 12, 17, 29]",5,interval class 5
+"[0, 15, 19, 31]",3,minor triad
+"[0, 12, 22, 26]",1,whole-tone trichord
+"[0, 16, 21, 30]",1,half-diminished seventh chord
+"[0, 12, 20, 29]",8,minor triad
+"[0, 12, 15, 20]",305,major triad
+"[0, 3, 17, 24]",1,incomplete dominant-seventh chord
+"[0, 11, 14, 19]",25,perfect-fourth major tetrachord
+"[0, 3, 20, 22]",1,major-second major tetrachord
+"[0, 5, 12, 16]",34,incomplete major-seventh chord
+"[0, 8, 17]",32,minor triad
+"[0, 3, 15, 24]",14,interval class 3
+"[0, 10, 19, 25]",1,perfect-fourth diminished tetrachord
+"[0, 3, 9]",12,diminished triad
+"[0, 16, 21, 23]",1,major-second minor tetrachord
+"[0, 14, 16, 19]",17,major-second major tetrachord
+"[0, 21, 27, 30]",9,diminished seventh chord
+"[0, 2, 6, 14]",16,incomplete dominant-seventh chord
+"[0, 7, 12, 27]",7,minor triad
+"[0, 6, 21]",2,diminished triad
+"[0, 11, 14, 24]",1,phrygian trichord
+"[0, 8, 11, 17]",4,minor-diminished tetrachord
+"[0, 8, 27, 30]",2,dominant seventh chord
+"[0, 1, 12, 17]",7,incomplete major-seventh chord
+"[0, 11, 14, 17]",2,minor-second diminished tetrachord
+"[0, 17, 20, 27]",5,minor seventh chord
+"[0, 4, 5, 12]",2,incomplete major-seventh chord
+"[0, 13, 17, 21]",2,augmented major tetrachord
+"[0, 5, 7, 19]",14,quartal trichord
+"[0, 8, 20, 29]",4,minor triad
+"[0, 10, 16, 24]",45,incomplete dominant-seventh chord
+"[0, 5, 17, 21]",11,major triad
+"[0, 2, 10, 17]",6,major-second major tetrachord
+"[0, 17, 26, 33]",1,minor seventh chord
+"[0, 11, 12, 18]",1,tritone-fourth
+"[0, 7, 11, 12]",1,incomplete major-seventh chord
+"[0, 5, 12, 21]",47,major triad
+"[0, 4, 12, 22]",32,incomplete dominant-seventh chord
+"[0, 20, 24, 29]",2,minor triad
+"[0, 3, 16, 21]",2,minor-diminished tetrachord
+"[0, 11, 21, 28]",2,major-second minor tetrachord
+"[0, 9, 17, 23]",3,all-interval tetrachord
+"[0, 4, 12, 19]",981,major triad
+"[0, 4, 19, 23]",7,major seventh chord
+"[0, 6, 9, 16]",81,half-diminished seventh chord
+"[0, 14, 24, 28]",2,whole-tone trichord
+"[0, 6, 14]",1,incomplete dominant-seventh chord
+"[0, 15, 24, 27]",19,interval class 3
+"[0, 4, 7, 11]",14,major seventh chord
+"[0, 10, 17, 24]",14,quartal trichord
+"[0, 10, 15, 21]",7,minor-second diminished tetrachord
+"[0, 14, 17, 23]",2,minor-second diminished tetrachord
+"[0, 24, 27, 31]",7,minor triad
+"[0, 8, 18, 27]",45,dominant seventh chord
+"[0, 7, 22, 28]",2,dominant seventh chord
+"[0, 19, 26, 29]",3,quartal tetramirror
+"[0, 4, 10, 17]",6,tritone quartal tetrachord
+"[0, 6, 13, 15]",1,minor-second diminished tetrachord
+"[0, 7, 19, 22]",11,incomplete dominant-seventh chord
+"[0, 2, 9, 12]",2,incomplete dominant-seventh chord
+"[0, 6, 12, 14]",2,incomplete dominant-seventh chord
+"[0, 4, 13, 22]",1,harmonic minor tetrachord
+"[0, 5, 7, 17]",2,quartal trichord
+"[0, 19, 23, 28]",19,major seventh chord
+"[0, 16, 23]",3,incomplete major-seventh chord
+"[0, 7, 12, 14]",19,quartal trichord
+"[0, 2, 5, 21]",1,minor seventh chord
+"[0, 21, 28, 31]",1,minor seventh chord
+"[0, 15, 21]",8,diminished triad
+"[0, 7, 15]",302,minor triad
+"[0, 2, 19, 22]",8,perfect-fourth minor tetrachord
+"[0, 17, 22, 25]",16,major-second minor tetrachord
+"[0, 21, 24, 31]",2,incomplete minor-seventh chord
+"[0, 10, 14, 24]",1,whole-tone trichord
+"[0, 19, 28]",6,major triad
+"[0, 16, 20, 26]",5,augmented seventh chord
+"[0, 9, 14, 15]",3,perfect-fourth diminished tetrachord
+"[0, 17, 27, 34]",2,quartal tetramirror
+"[0, 6, 16, 18]",2,incomplete half-diminished seventh chord
+"[0, 16, 17, 21]",3,major seventh chord
+"[0, 10, 15]",26,incomplete minor-seventh chord
+"[0, 12, 17, 21]",93,major triad
+"[0, 16]",7,interval class 4
+"[0, 19, 21, 28]",5,minor seventh chord
+"[0, 7, 9, 15]",2,half-diminished seventh chord
+"[0, 12, 17, 19]",374,quartal trichord
+"[0, 6, 15, 19]",1,minor-diminished tetrachord
+"[0, 9, 16, 18]",26,half-diminished seventh chord
+"[0, 10, 13, 22]",1,minor trichord
+"[0, 14, 23, 31]",1,perfect-fourth major tetrachord
+"[0, 9, 18, 22]",1,major-third diminished terachord
+"[0, 8, 20]",2,interval class 4
+"[0, 19, 22, 28]",27,dominant seventh chord
+"[0, 9, 12, 16]",149,minor triad
+"[0, 4, 19, 24]",12,major triad
+"[0, 2, 8, 11]",5,major-third diminished terachord
+"[0, 7, 12, 26]",1,quartal trichord
+"[0, 6, 17, 22]",4,minor-second quartal tetrachord
+"[0, 8, 13, 20]",6,incomplete major-seventh chord
+"[0, 21, 27, 31]",1,half-diminished seventh chord
+"[0, 6, 10, 15]",34,half-diminished seventh chord
+"[0, 8, 11, 14]",3,major-third diminished terachord
+"[0, 24, 29, 32]",1,minor triad
+"[0, 3, 10, 15]",117,incomplete minor-seventh chord
+"[0, 7, 16, 29]",1,perfect-fourth major tetrachord
+"[0, 7, 14, 19]",48,quartal trichord
+"[0, 5, 12, 22]",16,quartal trichord
+"[0, 1, 8, 16]",2,minor-augmented tetrachord
+"[0, 13, 15, 22]",2,minor tetramirror
+"[0, 3, 8, 17]",79,minor seventh chord
+"[0, 12, 21, 29]",6,major triad
+"[0, 9, 17, 24]",34,major triad
+"[0, 4, 12, 18]",2,incomplete half-diminished seventh chord
+"[0, 12, 14, 28]",1,whole-tone trichord
+"[0, 4, 9, 12]",108,minor triad
+"[0, 13, 18, 24]",1,tritone-fourth
+"[0, 9, 21, 27]",1,diminished triad
+"[0, 6, 15]",18,diminished triad
+"[0, 14, 24, 29]",2,incomplete minor-seventh chord
+"[0, 5]",4,interval class 5
+"[0, 10, 17, 25]",19,major-second minor tetrachord
+"[0, 3, 20]",16,major triad
+"[0, 9, 22, 26]",1,phrygian tetrachord
+"[0, 3, 17]",1,incomplete dominant-seventh chord
+"[0, 4, 17, 21]",3,major seventh chord
+"[0, 12, 15, 18]",2,diminished triad
+"[0, 12, 22, 27]",10,incomplete minor-seventh chord
+"[0, 3, 7, 10]",35,minor seventh chord
+"[0, 16, 21, 31]",5,minor seventh chord
+"[0, 12, 15, 21]",216,diminished triad
+"[0, 16, 19, 28]",60,major triad
+"[0, 9, 15]",41,diminished triad
+"[0, 11, 14, 18]",1,all-interval tetrachord
+"[0, 3, 8, 22]",1,major-second major tetrachord
+"[0, 5, 12, 17]",65,interval class 5
+"[0, 4, 6, 15]",1,major-third diminished terachord
+"[0, 1, 15, 20]",3,perfect-fourth major tetrachord
+"[0, 9, 24, 28]",6,minor triad
+"[0, 13, 22, 27]",9,minor tetramirror
+"[0, 15, 21, 24]",186,diminished triad
+"[0, 7, 14, 24]",8,quartal trichord
+"[0, 8, 15, 18]",400,dominant seventh chord
+"[0, 12, 16, 22]",116,incomplete dominant-seventh chord
+"[0, 5, 7, 14]",29,quartal tetramirror
+"[0, 15, 20]",123,major triad
+"[0, 27, 31, 36]",4,minor triad
+"[0, 5, 17, 22]",18,quartal trichord
+"[0, 15, 22, 25]",9,minor tetramirror
+"[0, 7, 17, 24]",37,quartal trichord
+"[0, 17, 20, 26]",9,half-diminished seventh chord
+"[0, 9, 21, 30]",1,diminished triad
+"[0, 15, 24, 31]",34,minor triad
+"[0, 3, 16, 20]",2,augmented major tetrachord
+"[0, 2, 10, 16]",1,whole-tone tetramirror
+"[0, 17, 26, 34]",2,major-second major tetrachord
+"[0, 13, 17, 20]",41,major seventh chord
+"[0, 4, 12, 23]",1,incomplete major-seventh chord
+"[0, 20, 24, 28]",1,augmented triad
+"[0, 1, 6, 15]",1,minor-second diminished tetrachord
+"[0, 9, 19, 28]",8,minor seventh chord
+"[0, 2, 9]",4,incomplete dominant-seventh chord
+"[0, 5, 24]",1,interval class 5
+"[0, 5, 16, 19]",3,perfect-fourth major tetrachord
+"[0, 7, 9, 12]",2,incomplete minor-seventh chord
+"[0, 5, 10, 21]",7,perfect-fourth major tetrachord
+"[0, 10, 15, 17]",59,quartal tetramirror
+"[0, 14, 15, 19]",8,major-second minor tetrachord
+"[0, 14, 16, 23]",1,phrygian tetrachord
+"[0, 12, 16, 17]",22,incomplete major-seventh chord
+"[0, 14, 17, 24]",9,incomplete minor-seventh chord
+"[0, 9, 18, 25]",2,minor-diminished tetrachord
+"[0, 1, 9, 12]",1,major-minor trichord
+"[0, 8, 18, 24]",1,incomplete dominant-seventh chord
+"[0, 20, 27, 30]",25,dominant seventh chord
+"[0, 11, 15, 21]",1,harmonic minor tetrachord
+"[0, 6, 15, 21]",45,diminished seventh chord
+"[0, 4, 10, 16]",7,incomplete dominant-seventh chord
+"[0, 8, 15, 16]",2,augmented major tetrachord
+"[0, 7, 19, 23]",11,incomplete major-seventh chord
+"[0, 8, 16, 27]",1,augmented major tetrachord
+"[0, 18, 20, 27]",31,dominant seventh chord
+"[0, 7, 13, 20]",2,double-fourth tetramirror
+"[0, 4, 8, 14]",2,augmented seventh chord
+"[0, 7, 16, 28]",20,major triad
+"[0, 5, 6, 15]",1,perfect-fourth diminished tetrachord
+"[0, 16, 22, 28]",2,incomplete dominant-seventh chord
+"[0, 5, 14, 15]",1,minor tetramirror
+"[0, 3, 8, 16]",3,augmented major tetrachord
+"[0, 15, 20, 27]",214,major triad
+"[0, 9, 19, 26]",2,quartal tetramirror
+"[0, 17, 22, 24]",5,quartal trichord
+"[0, 7, 14]",28,quartal trichord
+"[0, 2, 4, 14]",1,whole-tone trichord
+"[0, 15, 18, 32]",1,dominant seventh chord
+"[0, 3, 9, 24]",3,diminished triad
+"[0, 19, 21, 27]",1,half-diminished seventh chord
+"[0, 12, 23, 27]",3,major-minor trichord
+"[0, 4, 16, 19]",72,major triad
+"[0, 4, 11, 19]",17,major seventh chord
+"[0, 7, 10, 20]",1,phrygian tetrachord
+"[0, 4, 16, 20]",1,augmented triad
+"[0, 4, 9, 20]",1,minor-augmented tetrachord
+"[0, 4, 14, 19]",18,major-second major tetrachord
+"[0, 10, 12, 27]",2,incomplete minor-seventh chord
+"[0, 12, 15, 22]",36,incomplete minor-seventh chord
+"[0, 2, 14, 21]",1,incomplete dominant-seventh chord
+"[0, 12, 19, 24]",50,interval class 5
+"[0, 12, 22, 24]",2,interval class 2
+"[0, 4, 6, 16]",2,incomplete half-diminished seventh chord
+"[0, 15, 19, 24]",470,minor triad
+"[0, 9, 18, 21]",27,diminished triad
+"[0, 9, 12, 17]",55,major triad
+"[0, 4, 7, 10]",8,dominant seventh chord
+"[0, 4, 5]",2,incomplete major-seventh chord
+"[0, 8, 11, 15]",2,major-minor tetramirror
+"[0, 2, 5, 15]",2,minor tetramirror
+"[0, 15, 22, 24]",45,incomplete minor-seventh chord
+"[0, 3, 10]",11,incomplete minor-seventh chord
+"[0, 8, 20, 27]",36,major triad
+"[0, 10, 16, 26]",3,whole-tone tetramirror
+"[0, 15, 24, 32]",12,major triad
+"[0, 19, 26, 28]",12,major-second major tetrachord
+"[0, 12, 17, 27]",8,incomplete dominant-seventh chord
+"[0, 8, 12, 15]",189,major triad
+"[0, 9, 16, 24]",128,minor triad
+"[0, 11, 18]",1,tritone-fourth
+"[0, 9, 17, 25]",4,augmented major tetrachord
+"[0, 12, 21, 28]",37,minor triad
+"[0, 4, 9, 11]",7,major-second minor tetrachord
+"[0, 13, 18, 25]",9,tritone-fourth
+"[0, 4]",1,interval class 4
+"[0, 4, 14, 17]",5,lydian tetrachord
+"[0, 3, 21, 24]",19,diminished triad
+"[0, 5, 10, 27]",1,quartal tetramirror
+"[0, 3, 12, 19]",276,minor triad
+"[0, 10, 17, 26]",57,major-second major tetrachord
+"[0, 3, 14, 19]",3,major-second minor tetrachord
+"[0, 9, 15, 22]",3,minor-second diminished tetrachord
+"[0, 13, 22, 31]",1,perfect-fourth diminished tetrachord
+"[0, 7, 14, 18]",1,tritone quartal tetrachord
+"[0, 5, 16, 21]",21,major seventh chord
+"[0, 19, 23, 33]",1,lydian tetrachord
+"[0, 8, 15, 28]",2,augmented major tetrachord
+"[0, 16, 21]",66,minor triad
+"[0, 3, 7, 9]",13,half-diminished seventh chord
+"[0, 8, 18, 25]",1,tritone quartal tetrachord
+"[0, 14, 23, 24]",1,phrygian trichord
+"[0, 6, 15, 20]",147,dominant seventh chord
+"[0, 15, 20, 28]",1,augmented major tetrachord
+"[0, 8, 15, 17]",38,minor seventh chord
+"[0, 12, 18, 21]",37,diminished triad
+"[0, 18, 27, 32]",6,dominant seventh chord
+"[0, 15, 21, 25]",2,major-third diminished terachord
+"[0, 16, 24, 31]",141,major triad
+"[0, 7, 14, 27]",1,major-second minor tetrachord
+"[0, 8, 15, 19]",18,major seventh chord
+"[0, 5, 10, 12]",14,quartal trichord
+"[0, 12, 16, 21]",237,minor triad
+"[0, 5, 7, 15]",4,perfect-fourth minor tetrachord
+"[0, 10, 16, 28]",2,incomplete dominant-seventh chord
+"[0, 21, 28, 33]",1,minor triad
+"[0, 19, 24, 31]",7,interval class 5
+"[0, 10, 17]",16,quartal trichord
+"[0, 10, 14, 19]",55,perfect-fourth minor tetrachord
+"[0, 4, 16, 18]",1,incomplete half-diminished seventh chord
+"[0, 21, 24, 33]",1,interval class 3
+"[0, 4, 16, 21]",117,minor triad
+"[0, 3, 7, 27]",2,minor triad
+"[0, 4, 11, 16]",48,incomplete major-seventh chord
+"[0, 13, 16, 22]",3,harmonic minor tetrachord
+"[0, 3, 9, 12]",108,diminished triad
+"[0, 2, 8]",1,incomplete half-diminished seventh chord
+"[0, 2, 7, 9]",8,quartal tetramirror
+"[0, 8, 12, 20]",10,interval class 4
+"[0, 23, 26, 28]",1,phrygian tetrachord
+"[0, 17, 24]",4,interval class 5
+"[0, 14, 16, 22]",2,whole-tone tetramirror
+"[0, 19, 24]",15,interval class 5
+"[0, 10, 19, 28]",20,dominant seventh chord
+"[0, 16, 24, 32]",1,augmented triad
+"[0, 9, 12, 18]",17,diminished triad
+"[0, 2, 14, 19]",9,quartal trichord
+"[0, 8, 19, 27]",6,major seventh chord
+"[0, 7, 12, 24]",7,interval class 5
+"[0, 13, 20, 27]",5,perfect-fourth major tetrachord
+"[0, 8, 16, 20]",11,augmented triad
+"[0, 2, 14, 17]",9,incomplete minor-seventh chord
+"[0, 5, 9, 12]",47,major triad
+"[0, 17, 24, 32]",1,minor triad
+"[0, 16, 22, 29]",7,tritone quartal tetrachord
+"[0, 2, 4, 5]",2,lydian tetrachord
+"[0, 8, 16, 19]",14,augmented major tetrachord
+"[0, 3, 8, 15]",454,major triad
+"[0, 11, 19]",2,incomplete major-seventh chord
+"[0, 11, 16, 24]",6,incomplete major-seventh chord
+"[0, 14, 19, 28]",36,major-second major tetrachord
+"[0, 9, 17, 26]",11,minor seventh chord
+"[0, 14, 19]",10,quartal trichord
+"[0, 21, 29, 31]",1,major-second major tetrachord
+"[0, 4, 14, 16]",7,whole-tone trichord
+"[0, 3]",5,interval class 3
+"[0, 5, 10, 26]",1,major-second major tetrachord
+"[0, 3, 21, 27]",2,diminished triad
+"[0, 2, 15, 21]",1,perfect-fourth diminished tetrachord
+"[0, 10, 12, 19]",34,incomplete dominant-seventh chord
+"[0, 15, 17, 21]",8,dominant seventh chord
+"[0, 10, 17, 27]",2,quartal tetramirror
+"[0, 12, 27, 32]",1,major triad
+"[0, 4, 9, 21]",56,minor triad
+"[0, 1, 7, 10]",6,perfect-fourth diminished tetrachord
+"[0, 6, 17, 20]",2,all-interval tetrachord
+"[0, 3, 7, 12]",287,minor triad
+"[0, 4, 22, 31]",1,dominant seventh chord
+"[0, 16, 19, 33]",1,minor seventh chord
+"[0, 3, 8, 20]",205,major triad
+"[0, 17, 21, 34]",2,perfect-fourth major tetrachord
+"[0, 3, 14, 21]",5,perfect-fourth diminished tetrachord
+"[0, 17, 24, 33]",1,major triad
+"[0, 12, 18, 20]",2,incomplete dominant-seventh chord
+"[0, 7, 14, 26]",11,quartal trichord
+"[0, 17, 23, 29]",1,tritone-fourth
+"[0, 11, 14, 16]",12,phrygian tetrachord
+"[0, 6, 7, 16]",4,all-interval tetrachord
+"[0, 18, 21, 28]",2,half-diminished seventh chord
+"[0, 5, 10, 13]",23,major-second minor tetrachord
+"[0, 15, 22]",6,incomplete minor-seventh chord
+"[0, 5, 7, 12]",25,quartal trichord
+"[0, 12, 16, 20]",24,augmented triad
+"[0, 5, 15, 26]",1,minor tetramirror
+"[0, 3, 6, 11]",1,major-diminished tetrachord
+"[0, 2, 16, 19]",2,major-second major tetrachord
+"[0, 2, 5, 14]",7,incomplete minor-seventh chord
+"[0, 15, 22, 27]",82,incomplete minor-seventh chord
+"[0, 1, 10, 20]",1,lydian tetrachord
+"[0, 5, 24, 26]",1,incomplete minor-seventh chord
+"[0, 17, 26, 29]",1,incomplete minor-seventh chord
+"[0, 19, 27, 33]",1,half-diminished seventh chord
+"[0, 4, 18, 21]",10,half-diminished seventh chord
+"[0, 14, 19, 26]",75,quartal trichord
+"[0, 9, 17, 28]",5,major seventh chord
+"[0, 1, 6, 13]",1,tritone-fourth
+"[0, 15, 24, 33]",6,diminished triad
+"[0, 5, 15, 19]",2,perfect-fourth minor tetrachord
+"[0, 9, 16, 27]",1,minor-diminished tetrachord
+"[0, 1, 13, 19]",1,tritone-fourth
+"[0, 3, 9, 13]",3,major-third diminished terachord
+"[0, 4, 10, 14]",2,whole-tone tetramirror
+"[0, 7, 9, 21]",2,incomplete minor-seventh chord
+"[0, 5, 7, 9]",4,major-second major tetrachord
+"[0, 17, 25, 34]",2,major-second minor tetrachord
+"[0, 1, 10, 15]",4,minor tetramirror
+"[0, 15]",1,interval class 3
+"[0, 16, 26, 28]",1,whole-tone trichord
+"[0, 5, 16, 20]",1,minor-augmented tetrachord
+"[0, 11, 20, 26]",3,major-third diminished terachord
+"[0, 7, 11, 19]",2,incomplete major-seventh chord
+"[0, 3, 7, 8]",9,major seventh chord
+"[0, 2, 18, 21]",3,dominant seventh chord
+"[0, 6, 15, 23]",1,major-diminished tetrachord
+"[0, 14, 17, 26]",4,incomplete minor-seventh chord
+"[0, 3, 6, 8]",10,dominant seventh chord
+"[0, 14, 18, 23]",1,all-interval tetrachord
+"[0, 2, 12, 21]",1,incomplete dominant-seventh chord
+"[0, 8, 16, 21]",1,minor-augmented tetrachord
+"[0, 18, 20]",1,incomplete dominant-seventh chord
+"[0, 9, 11, 16]",7,major-second minor tetrachord
+"[0, 10, 16, 19]",759,dominant seventh chord
+"[0, 5, 9, 13]",7,augmented major tetrachord
+"[0, 7, 16, 26]",12,major-second major tetrachord
+"[0, 3, 8, 14]",4,all-interval tetrachord
+"[0, 14, 15, 22]",2,lydian tetrachord
+"[0, 12, 28, 31]",1,major triad
+"[0, 13, 15, 27]",1,phrygian trichord
+"[0, 1, 8, 13]",2,incomplete major-seventh chord
+"[0, 14, 23, 29]",1,minor-second diminished tetrachord
+"[0, 9, 19]",1,incomplete minor-seventh chord
+"[0, 15, 20, 25]",6,perfect-fourth major tetrachord
+"[0, 7, 12]",26,interval class 5
+"[0, 2, 17, 21]",1,minor seventh chord
+"[0, 2, 4, 16]",1,whole-tone trichord
+"[0, 7, 10, 22]",1,incomplete dominant-seventh chord
+"[0, 10, 16]",19,incomplete dominant-seventh chord
+"[0, 10, 14, 16]",2,whole-tone tetramirror
+"[0, 9, 14, 18]",154,dominant seventh chord
+"[0, 14, 15, 31]",1,major-second minor tetrachord
+"[0, 11, 21]",2,minor trichord
+"[0, 16, 22, 24]",12,incomplete dominant-seventh chord
+"[0, 12, 15, 24]",51,interval class 3
+"[0, 4, 7, 12]",537,major triad
+"[0, 6, 10, 16]",2,Messiaen's truncated mode 6
+"[0, 2, 3, 10]",1,lydian tetrachord
+"[0, 16, 21, 29]",2,major seventh chord
+"[0, 12, 19, 26]",13,quartal trichord
+"[0, 7, 12, 18]",9,tritone-fourth
+"[0, 3, 14, 20]",4,all-interval tetrachord
+"[0, 19, 27]",4,minor triad
+"[0, 11, 19, 21]",1,lydian tetrachord
+"[0, 5, 14, 22]",26,major-second major tetrachord
+"[0, 3, 15, 20]",290,major triad
+"[0, 9, 12, 19]",13,incomplete minor-seventh chord
+"[0, 18, 23, 27]",1,major-diminished tetrachord
+"[0, 2, 14, 18]",2,incomplete dominant-seventh chord
+"[0, 2, 9, 17]",37,minor seventh chord
+"[0, 4, 7]",259,major triad
+"[0, 7, 18, 19]",2,tritone-fourth
+"[0, 7, 16, 20]",3,augmented major tetrachord
+"[0, 2, 5, 17]",4,incomplete minor-seventh chord
+"[0, 5, 24, 27]",1,incomplete dominant-seventh chord
+"[0, 15, 22, 26]",4,lydian tetrachord
+"[0, 15, 18, 27]",23,diminished triad
+"[0, 9, 17, 29]",3,major triad
+"[0, 14, 19, 27]",33,major-second minor tetrachord
+"[0, 9, 16, 26]",4,perfect-fourth minor tetrachord
+"[0, 11, 14]",3,phrygian trichord
+"[0, 20, 23, 29]",1,minor-diminished tetrachord
+"[0, 6, 12, 21]",4,diminished triad
+"[0, 13, 17, 25]",1,incomplete major-seventh chord
+"[0, 11, 17, 24]",1,tritone-fourth
+"[0, 8, 17, 19]",10,major-second minor tetrachord
+"[0, 16, 18, 28]",2,incomplete half-diminished seventh chord
+"[0, 9, 21, 24]",2,interval class 3
+"[0, 9, 17, 27]",7,dominant seventh chord
+"[0, 14, 19, 29]",7,quartal tetramirror
+"[0, 3, 17, 20]",3,minor seventh chord
+"[0, 4, 9, 17]",63,major seventh chord
+"[0, 2, 15, 20]",1,all-interval tetrachord
+"[0, 5, 10, 25]",1,major-second minor tetrachord
+"[0, 2, 6, 9]",91,dominant seventh chord
+"[0, 8, 17, 20]",42,minor triad
+"[0, 15, 17, 20]",19,minor seventh chord
+"[0, 2, 15, 19]",2,major-second minor tetrachord
+"[0, 10, 17, 20]",12,perfect-fourth minor tetrachord
+"[0, 21, 27]",1,diminished triad
+"[0, 16, 26, 29]",1,lydian tetrachord
+"[0, 7, 11, 18]",2,double-fourth tetramirror
+"[0, 8, 12, 19]",2,incomplete major-seventh chord
+"[0, 5, 7, 22]",1,quartal tetramirror
+"[0, 3, 6, 9]",18,diminished seventh chord
+"[0, 14, 17, 27]",4,minor tetramirror
+"[0, 2, 8, 19]",2,minor-second quartal tetrachord
+"[0, 24, 30, 33]",2,diminished triad
+"[0, 7, 8]",2,incomplete major-seventh chord
+"[0, 4, 5, 9]",5,major seventh chord
+"[0, 18, 21, 27]",17,diminished seventh chord
+"[0, 9, 16, 19]",48,minor seventh chord
+"[0, 5, 8, 10]",4,perfect-fourth minor tetrachord
+"[0, 13, 22, 24]",1,minor trichord
+"[0, 9, 18]",17,diminished triad
+"[0, 14, 23, 28]",3,phrygian tetrachord
+"[0, 3, 9, 21]",2,diminished triad
+"[0, 15, 20, 24]",235,major triad
+"[0, 19, 24, 33]",1,incomplete minor-seventh chord
+"[0, 9, 21]",1,interval class 3
+"[0, 2, 4, 17]",1,lydian tetrachord
+"[0, 7, 19, 28]",18,major triad
+"[0, 13, 16, 20]",1,minor-augmented tetrachord
+"[0, 19, 29, 31]",2,quartal trichord
+"[0, 4, 26]",1,whole-tone trichord
+"[0, 10, 14, 17]",46,major-second major tetrachord
+"[0, 10, 19]",5,incomplete dominant-seventh chord
+"[0, 17, 19]",3,quartal trichord
+"[0, 7, 11]",7,incomplete major-seventh chord
+"[0, 1, 13, 18]",2,tritone-fourth
+"[0, 9, 19, 27]",14,half-diminished seventh chord
+"[0, 3, 9, 10]",4,minor-second diminished tetrachord
+"[0, 5, 13, 15]",1,phrygian tetrachord
+"[0, 13, 19, 25]",1,tritone-fourth
+"[0, 8, 12, 22]",1,whole-tone trichord
+"[0, 12, 19, 29]",15,quartal trichord
+"[0, 24, 28, 31]",51,major triad
+"[0, 12, 13, 21]",1,major-minor trichord
+"[0, 18, 23, 26]",1,all-interval tetrachord
+"[0, 6, 14, 22]",2,augmented seventh chord
+"[0, 3, 15, 21]",32,diminished triad
+"[0, 5, 14, 21]",74,minor seventh chord
+"[0, 16, 21, 26]",3,perfect-fourth minor tetrachord
+"[0, 3, 19, 20]",8,major seventh chord
+"[0, 1, 10, 19]",3,perfect-fourth diminished tetrachord
+"[0, 7, 18, 23]",1,double-fourth tetramirror
+"[0, 15, 19, 29]",2,perfect-fourth minor tetrachord
+"[0, 5, 11, 17]",3,tritone-fourth
+"[0, 13, 20, 29]",9,major seventh chord
+"[0, 18, 21]",2,diminished triad
+"[0, 3, 10, 18]",63,half-diminished seventh chord
+"[0, 15, 18, 24]",17,diminished triad
+"[0, 9, 14, 19]",30,quartal tetramirror
+"[0, 5, 10]",4,quartal trichord
+"[0, 8, 13, 15]",6,perfect-fourth major tetrachord
+"[0, 21, 26, 29]",1,minor seventh chord
+"[0, 9, 12, 21]",6,interval class 3
+"[0, 4, 19]",6,major triad
+"[0, 3, 8, 13]",13,perfect-fourth major tetrachord
+"[0, 7, 13, 16]",1,major-diminished tetrachord
+"[0, 15, 20, 29]",8,minor seventh chord
+"[0, 2, 4, 7]",4,major-second major tetrachord
+"[0, 1, 8, 12]",1,incomplete major-seventh chord
+"[0, 15, 19, 27]",92,minor triad
+"[0, 11, 16, 26]",3,phrygian tetrachord
+"[0, 7, 12, 28]",17,major triad
+"[0, 17, 21, 25]",1,augmented major tetrachord
+"[0, 12, 19, 27]",224,minor triad
+"[0, 3, 17, 21]",1,dominant seventh chord
+"[0, 4, 9, 16]",210,minor triad
+"[0, 9, 15, 21]",10,diminished triad
+"[0, 12, 17]",13,interval class 5
+"[0, 4, 12, 14]",1,whole-tone trichord
+"[0, 12, 14, 24]",4,interval class 2
+"[0, 10, 17, 21]",8,perfect-fourth major tetrachord
+"[0, 12, 19]",39,interval class 5
+"[0, 17, 24, 27]",10,incomplete dominant-seventh chord
+"[0, 2, 4, 9]",8,perfect-fourth minor tetrachord
+"[0, 9, 18, 27]",32,diminished seventh chord
+"[0, 3, 7, 14]",2,major-second minor tetrachord
+"[0, 8, 15, 20]",755,major triad
+"[0, 16, 21, 28]",31,minor triad
+"[0, 16, 19, 31]",9,major triad
+"[0, 5, 12, 13]",15,incomplete major-seventh chord
+"[0, 4, 6, 11]",1,minor-second quartal tetrachord
+"[0, 7, 15, 19]",76,minor triad
+"[0, 7, 12, 19]",48,interval class 5
+"[0, 12, 17, 22]",39,quartal trichord
+"[0, 7, 15, 20]",33,major seventh chord
+"[0, 15, 22, 32]",3,major-second major tetrachord
+"[0, 7, 14, 20]",2,minor-second quartal tetrachord
+"[0, 7, 17, 19]",64,quartal trichord
+"[0, 12, 18, 22]",6,incomplete half-diminished seventh chord
+"[0, 10, 12, 15]",22,incomplete minor-seventh chord
+"[0, 18, 21, 26]",2,dominant seventh chord
+"[0, 15, 24]",20,interval class 3
+"[0, 8, 10, 19]",1,phrygian tetrachord
+"[0, 5, 15, 24]",9,incomplete dominant-seventh chord
+"[0, 5, 8, 13]",38,major seventh chord
+[0],24,unison
+"[0, 8, 20, 24]",6,interval class 4
+"[0, 2, 5, 16]",2,lydian tetrachord
+"[0, 6, 14, 16]",1,whole-tone tetramirror
+"[0, 11, 16, 28]",13,incomplete major-seventh chord
+"[0, 12, 21, 27]",67,diminished triad
+"[0, 4, 8, 19]",5,augmented major tetrachord
+"[0, 9, 16, 21]",204,minor triad
+"[0, 12, 17, 24]",8,interval class 5
+"[0, 3, 15]",28,interval class 3
+"[0, 17, 20, 22]",6,perfect-fourth minor tetrachord
+"[0, 8, 12, 16]",16,augmented triad
+"[0, 3, 18, 24]",2,diminished triad
+"[0, 11, 18, 26]",1,all-interval tetrachord
+"[0, 19, 23, 27]",2,minor-augmented tetrachord
+"[0, 9, 19, 24]",12,incomplete minor-seventh chord
+"[0, 15, 21, 29]",12,dominant seventh chord
+"[0, 6, 15, 25]",3,minor-second diminished tetrachord
+"[0, 7, 14, 15]",204,major-second minor tetrachord
+"[0, 3, 13]",1,phrygian trichord
+"[0, 2, 12, 16]",2,whole-tone trichord
+"[0, 10, 22, 27]",2,incomplete minor-seventh chord
+"[0, 4, 15, 21]",3,minor-diminished tetrachord
+"[0, 5, 7, 10]",1,quartal tetramirror
+"[0, 16, 28, 34]",1,incomplete dominant-seventh chord
+"[0, 2, 7, 23]",1,perfect-fourth major tetrachord
+"[0, 12, 16, 31]",4,major triad
+"[0, 2, 7, 12]",8,quartal trichord
+"[0, 5, 16, 22]",9,tritone quartal tetrachord
+"[0, 14, 18, 21]",96,dominant seventh chord
+"[0, 7, 16, 24]",667,major triad
+"[0, 3, 10, 19]",29,minor seventh chord
+"[0, 21, 24, 27]",7,diminished triad
+"[0, 8, 16, 23]",3,augmented major tetrachord
+"[0, 3, 15, 19]",90,minor triad
+"[0, 19, 24, 29]",18,quartal trichord
+"[0, 5, 13]",1,incomplete major-seventh chord
+"[0, 16, 20, 23]",3,augmented major tetrachord
+"[0, 8, 13, 16]",4,minor-augmented tetrachord
+"[0, 17, 24, 31]",18,quartal trichord
+"[0, 7, 26, 28]",3,major-second major tetrachord
+"[0, 3, 8, 12]",119,major triad
+"[0, 7, 24, 27]",27,minor triad
+"[0, 2, 10, 19]",6,perfect-fourth minor tetrachord
+"[0, 12, 13, 17]",2,incomplete major-seventh chord
+"[0, 4, 21]",8,minor triad
+"[0, 3, 11, 16]",1,Arabian tetramirror
+"[0, 4, 16, 24]",4,interval class 4
+"[0, 11, 15, 18]",3,major-diminished tetrachord
+"[0, 9, 14, 29]",1,minor seventh chord
+"[0, 7, 10]",7,incomplete dominant-seventh chord
+"[0, 5, 20, 25]",1,major seventh chord
+"[0, 2, 11, 16]",2,phrygian tetrachord
+"[0, 4, 14]",1,whole-tone trichord
+"[0, 12, 18]",2,tritone
+"[0, 8, 19, 24]",2,incomplete major-seventh chord
+"[0, 17, 24, 26]",6,incomplete minor-seventh chord
+"[0, 3, 7, 15]",395,minor triad
+"[0, 3, 14, 22]",1,lydian tetrachord
+"[0, 4, 6, 12]",4,incomplete half-diminished seventh chord
+"[0, 7, 15, 21]",111,half-diminished seventh chord
+"[0, 7, 12, 16]",1426,major triad
+"[0, 12, 22, 28]",23,incomplete dominant-seventh chord
+"[0, 10, 17, 19]",33,quartal tetramirror
+"[0, 3, 8, 27]",4,major triad
+"[0, 4, 8, 18]",1,augmented seventh chord
+"[0, 11, 19, 27]",3,minor-augmented tetrachord
+"[0, 7, 13, 15]",15,all-interval tetrachord
+"[0, 5, 8, 12]",14,minor triad
+"[0, 2, 9, 19]",1,quartal tetramirror
+"[0, 15, 19, 28]",1,major-minor tetramirror
+"[0, 5, 11, 16]",6,double-fourth tetramirror
+"[0, 3, 15, 22]",5,incomplete minor-seventh chord
+"[0, 5, 14, 20]",11,half-diminished seventh chord
+"[0, 14, 16, 17]",1,lydian tetrachord
+"[0, 8, 27]",2,major triad
+"[0, 20, 25, 28]",1,minor-augmented tetrachord
+"[0, 16, 22, 31]",76,dominant seventh chord
+"[0, 2, 8, 20]",2,incomplete half-diminished seventh chord
+"[0, 2, 14]",1,interval class 2
+"[0, 15, 24, 29]",3,incomplete dominant-seventh chord
+"[0, 11, 16]",23,incomplete major-seventh chord
+"[0, 16, 18, 24]",2,incomplete half-diminished seventh chord
+"[0, 8, 13, 18]",2,tritone quartal tetrachord
+"[0, 4, 8, 16]",7,augmented triad
+"[0, 1, 6, 10]",12,all-interval tetrachord
+"[0, 15, 19, 26]",1,major-second minor tetrachord
+"[0, 12, 19, 20]",1,incomplete major-seventh chord
+"[0, 8, 12, 17]",80,minor triad
+"[0, 4, 14, 22]",2,whole-tone tetramirror
+"[0, 1, 8, 20]",1,incomplete major-seventh chord
+"[0, 11, 15, 19]",1,minor-augmented tetrachord
+"[0, 10, 17, 22]",11,quartal trichord
+"[0, 15, 17, 22]",15,quartal tetramirror
+"[0, 12, 16]",35,interval class 4
+"[0, 17, 21, 26]",8,minor seventh chord
+"[0, 8, 17, 22]",13,perfect-fourth minor tetrachord
+"[0, 11, 14, 20]",6,major-third diminished terachord
+"[0, 4, 12, 17]",25,incomplete major-seventh chord
+"[0, 15, 18, 21]",52,diminished seventh chord
+"[0, 1, 9, 17]",1,augmented major tetrachord
+"[0, 4, 15, 20]",5,augmented major tetrachord
+"[0, 10, 13, 15]",8,minor tetramirror
+"[0, 16, 28, 33]",5,minor triad
+"[0, 6, 9, 12]",1,diminished triad
+"[0, 2, 8, 15]",1,all-interval tetrachord
+"[0, 10, 16, 17]",34,tritone quartal tetrachord
+"[0, 2, 7, 11]",40,perfect-fourth major tetrachord
+"[0, 3, 4, 7]",1,major-minor tetramirror
+"[0, 11, 12, 16]",3,incomplete major-seventh chord
+"[0, 7, 14, 23]",46,perfect-fourth major tetrachord
+"[0, 3, 12, 13]",1,phrygian trichord
+"[0, 10, 12, 16]",65,incomplete dominant-seventh chord
+"[0, 17, 21, 24]",13,major triad
+"[0, 11, 17, 19]",1,tritone quartal tetrachord
+"[0, 14, 22, 28]",1,whole-tone tetramirror
+"[0, 15, 27]",1,interval class 3
+"[0, 5, 10, 16]",9,tritone quartal tetrachord
+"[0, 3, 16, 18]",1,major-third diminished terachord
+"[0, 16, 26, 34]",1,whole-tone tetramirror
+"[0, 5, 15, 25]",7,phrygian tetrachord
+"[0, 3, 6, 12]",9,diminished triad
+"[0, 12, 24, 28]",16,interval class 4
+"[0, 15, 20, 22]",3,major-second major tetrachord
+"[0, 4, 11, 12]",1,incomplete major-seventh chord
+"[0, 9, 14, 28]",3,perfect-fourth minor tetrachord
+"[0, 2, 11, 17]",3,minor-second diminished tetrachord
+"[0, 2, 11, 21]",1,minor tetramirror
+"[0, 3, 18, 27]",2,diminished triad
+"[0, 13, 19, 27]",10,all-interval tetrachord
+"[0, 4, 10, 19]",280,dominant seventh chord
+"[0, 8, 12, 24]",1,interval class 4
+"[0, 7, 14, 16]",186,major-second major tetrachord
+"[0, 12, 16, 18]",1,incomplete half-diminished seventh chord
+"[0, 8, 15, 22]",14,major-second major tetrachord
+"[0, 5, 13, 17]",3,incomplete major-seventh chord
+"[0, 15, 27, 34]",1,incomplete minor-seventh chord
+"[0, 3, 9, 16]",2,minor-diminished tetrachord
+"[0, 2, 12, 15]",1,minor trichord
+"[0, 24, 28, 33]",3,minor triad
+"[0, 11, 19, 26]",15,perfect-fourth major tetrachord
+"[0, 2, 11, 19]",5,perfect-fourth major tetrachord
+"[0, 1, 5, 20]",2,major seventh chord
+"[0, 3, 10, 14]",5,lydian tetrachord
+"[0, 2, 9, 18]",45,dominant seventh chord
+"[0, 9, 18, 24]",14,diminished triad
+"[0, 5, 22, 25]",1,major-second minor tetrachord
+"[0, 14, 21, 23]",1,minor tetramirror
+"[0, 4, 7, 8]",1,augmented major tetrachord
+"[0, 8, 13, 17]",157,major seventh chord
+"[0, 6, 16, 21]",31,half-diminished seventh chord
+"[0, 7, 16, 23]",59,major seventh chord
+"[0, 3, 15, 18]",92,diminished triad
+"[0, 10, 14, 15]",3,lydian tetrachord
+"[0, 19, 24, 28]",367,major triad
+"[0, 5, 12]",3,interval class 5
+"[0, 9, 14]",10,incomplete dominant-seventh chord
+"[0, 7, 26, 29]",2,quartal tetramirror
+"[0, 5, 19, 22]",1,quartal tetramirror
+"[0, 6, 15, 24]",4,diminished triad
+"[0, 15, 19, 25]",3,all-interval tetrachord
+"[0, 4, 9, 14]",37,perfect-fourth minor tetrachord
+"[0, 6, 12, 22]",2,incomplete half-diminished seventh chord
+"[0, 9, 21, 29]",2,major triad
+"[0, 12, 19, 21]",14,incomplete minor-seventh chord
+"[0, 4, 14, 23]",5,phrygian tetrachord
+"[0, 6, 9, 26]",2,dominant seventh chord
+"[0, 12, 15]",25,interval class 3
+"[0, 12, 15, 29]",1,incomplete dominant-seventh chord
+"[0, 16, 19, 20]",2,augmented major tetrachord
+"[0, 11, 14, 21]",2,minor tetramirror
+"[0, 9, 15, 27]",7,diminished triad
+"[0, 15, 17, 25]",3,phrygian tetrachord
+"[0, 4, 7, 19]",37,major triad
+"[0, 17, 21, 27]",21,dominant seventh chord
+"[0, 14, 15]",2,minor trichord
+"[0, 8, 17, 25]",7,major seventh chord
+"[0, 7, 10, 12]",10,incomplete dominant-seventh chord
+"[0, 2, 5, 8]",1,half-diminished seventh chord
+"[0, 12, 15, 27]",45,interval class 3
+"[0, 8, 16, 17]",2,minor-augmented tetrachord
+"[0, 4, 7, 17]",3,perfect-fourth major tetrachord
+"[0, 3, 8, 24]",3,major triad
+"[0, 12, 22, 29]",3,quartal trichord
+"[0, 7, 12, 17]",90,quartal trichord
+"[0, 12, 17, 20]",64,minor triad
+"[0, 7, 15, 22]",78,minor seventh chord
+"[0, 10, 12, 22]",1,interval class 2
+"[0, 18, 21, 24]",3,diminished triad
+"[0, 15, 22, 30]",3,half-diminished seventh chord
+"[0, 13, 17, 19]",3,minor-second quartal tetrachord
+"[0, 12, 18, 24]",1,tritone
+"[0, 7, 14, 22]",75,perfect-fourth minor tetrachord
+"[0, 16, 24, 34]",2,incomplete dominant-seventh chord
+"[0, 10, 12, 17]",18,quartal trichord
+"[0, 19, 26, 27]",11,major-second minor tetrachord
+"[0, 14, 22, 29]",3,major-second major tetrachord
+"[0, 5, 10, 17]",36,quartal trichord
+"[0, 21, 28, 36]",1,minor triad
+"[0, 5, 8, 15]",45,minor seventh chord
+"[0, 5, 15, 22]",57,quartal tetramirror
+"[0, 2, 7]",23,quartal trichord
+"[0, 8, 15, 25]",3,perfect-fourth major tetrachord
+"[0, 5, 10, 22]",6,quartal trichord
+"[0, 14, 19, 31]",1,quartal trichord
+"[0, 19, 28, 31]",3,major triad
+"[0, 12, 14, 19]",39,quartal trichord
+"[0, 11, 17, 21]",1,all-interval tetrachord
+"[0, 9, 16, 23]",4,major-second minor tetrachord
+"[0, 14, 19, 22]",55,perfect-fourth minor tetrachord
+"[0, 20, 27, 32]",15,major triad
+"[0, 4, 7, 22]",3,dominant seventh chord
+"[0, 6, 12, 24]",2,tritone
+"[0, 10, 15, 19]",122,minor seventh chord
+"[0, 14, 20, 29]",1,half-diminished seventh chord
+"[0, 2, 7, 10]",34,perfect-fourth minor tetrachord
+"[0, 6, 15, 27]",3,diminished triad
+"[0, 7, 14, 17]",48,quartal tetramirror
+"[0, 8, 15, 21]",2,major-diminished tetrachord
+"[0, 3, 9, 17]",61,dominant seventh chord
+"[0, 24, 31, 39]",1,minor triad
+"[0, 2, 3]",3,minor trichord
+"[0, 24, 28, 34]",2,incomplete dominant-seventh chord
+"[0, 3, 19, 21]",2,half-diminished seventh chord
+"[0, 5, 16, 24]",1,incomplete major-seventh chord
+"[0, 7, 11, 15]",15,minor-augmented tetrachord
+"[0, 7, 16, 22]",84,dominant seventh chord
+"[0, 6, 10, 14]",1,augmented seventh chord
+"[0, 17, 22, 31]",2,quartal tetramirror
+"[0, 19, 24, 27]",189,minor triad
+"[0, 5, 15]",5,incomplete dominant-seventh chord
+"[0, 2, 17]",2,incomplete minor-seventh chord
+"[0, 9, 17]",57,major triad
+"[0, 3, 13, 17]",1,phrygian tetrachord
+"[0, 21, 26, 31]",1,quartal tetramirror
+"[0, 7, 14, 21]",8,quartal tetramirror
+"[0, 3, 8, 10]",11,major-second major tetrachord
+"[0, 16, 17, 19]",2,perfect-fourth major tetrachord
+"[0, 3, 10, 20]",20,major-second major tetrachord
+"[0, 3, 13, 19]",5,all-interval tetrachord
+"[0, 10, 15, 26]",14,lydian tetrachord
+"[0, 12, 16, 19]",1737,major triad
+"[0, 13, 17]",3,incomplete major-seventh chord
+"[0, 3, 6, 20]",1,dominant seventh chord
+"[0, 1, 13, 17]",2,incomplete major-seventh chord
+"[0, 4, 16]",44,interval class 4
+"[0, 3, 7, 17]",6,perfect-fourth minor tetrachord
+"[0, 7, 10, 13]",1,perfect-fourth diminished tetrachord
+"[0, 2, 5, 9]",23,minor seventh chord
+"[0, 9, 10, 15]",3,minor-second diminished tetrachord
+"[0, 17, 24, 28]",3,incomplete major-seventh chord
+"[0, 7, 16, 17]",2,perfect-fourth major tetrachord
+"[0, 4, 7, 16]",447,major triad
+"[0, 7, 15, 23]",4,minor-augmented tetrachord
+"[0, 17, 19, 22]",5,quartal tetramirror
+"[0, 7, 16, 19]",283,major triad
+"[0, 1, 7, 15]",2,all-interval tetrachord
+"[0, 16, 17, 26]",1,lydian tetrachord
+"[0, 5, 13, 20]",32,major seventh chord
+"[0, 23, 28, 33]",1,major-second minor tetrachord
+"[0, 4, 7, 9]",49,minor seventh chord
+"[0, 7, 18, 24]",5,tritone-fourth
+"[0, 12, 17, 32]",1,minor triad
+"[0, 5, 11, 14]",10,minor-second diminished tetrachord
+"[0, 20, 25, 29]",2,major seventh chord
+"[0, 19, 27, 31]",2,minor triad
+"[0, 3, 20, 24]",17,major triad
+"[0, 3, 5, 17]",3,incomplete dominant-seventh chord
+"[0, 1, 5, 10]",10,major-second minor tetrachord
+"[0, 11, 17, 20]",1,minor-diminished tetrachord
+"[0, 6, 8, 15]",75,dominant seventh chord
+"[0, 14, 19, 23]",103,perfect-fourth major tetrachord
+"[0, 9, 16, 22]",1,all-interval tetrachord
+"[0, 4, 7, 23]",1,major seventh chord
+"[0, 3, 12, 24]",1,interval class 3
+"[0, 3, 6, 10]",4,half-diminished seventh chord
+"[0, 16, 20, 27]",1,augmented major tetrachord
+"[0, 12, 19, 22]",49,incomplete dominant-seventh chord
+"[0, 2, 6, 16]",1,whole-tone tetramirror
+"[0, 16, 19, 21]",238,minor seventh chord
+"[0, 2, 5, 7]",9,quartal tetramirror
+"[0, 15, 17, 24]",3,incomplete dominant-seventh chord
+"[0, 12, 14, 21]",10,incomplete dominant-seventh chord
+"[0, 9, 15, 24]",88,diminished triad
+"[0, 12, 14]",3,interval class 2
+"[0, 9, 21, 28]",4,minor triad
+"[0, 4, 7, 18]",3,all-interval tetrachord
+"[0, 17, 21, 28]",3,major seventh chord
+"[0, 22, 28, 31]",40,dominant seventh chord
+"[0, 8, 17, 24]",20,minor triad
+"[0, 4, 12, 24]",4,interval class 4
+"[0, 3, 19, 22]",2,minor seventh chord
+"[0, 5, 10, 14]",44,major-second major tetrachord
+"[0, 16, 28, 31]",1,major triad
+"[0, 8, 21, 27]",2,major-diminished tetrachord
+"[0, 14, 18, 26]",2,incomplete dominant-seventh chord
+"[0, 2, 8, 17]",4,half-diminished seventh chord
+"[0, 6, 14, 26]",2,incomplete dominant-seventh chord
+"[0, 6, 11, 18]",1,tritone-fourth
+"[0, 7, 11, 14]",15,perfect-fourth major tetrachord
+"[0, 10, 15, 29]",6,quartal tetramirror
+"[0, 16, 20, 25]",1,minor-augmented tetrachord
+"[0, 15, 22, 31]",4,minor seventh chord
+"[0, 13, 16, 27]",1,alternating tetramirror
+"[0, 3, 22, 24]",4,incomplete minor-seventh chord
+"[0, 12, 18, 27]",4,diminished triad
+"[0, 21, 30, 40]",1,half-diminished seventh chord
+"[0, 5, 8, 14]",22,half-diminished seventh chord
+"[0, 7, 19, 24]",22,interval class 5
+"[0, 3, 13, 18]",12,minor-second diminished tetrachord
+"[0, 10, 15, 27]",26,incomplete minor-seventh chord
+"[0, 16, 23, 31]",4,major seventh chord
+"[0, 14, 21, 24]",2,incomplete dominant-seventh chord
+"[0, 22, 24, 28]",14,incomplete dominant-seventh chord
+"[0, 14, 21, 29]",6,minor seventh chord
+"[0, 9, 14, 26]",2,incomplete dominant-seventh chord
+"[0, 14, 22, 24]",2,whole-tone trichord
+"[0, 16, 23, 26]",1,phrygian tetrachord
+"[0, 9, 16, 17]",13,major seventh chord
+"[0, 4, 16, 23]",3,incomplete major-seventh chord
+"[0, 3, 18, 21]",8,diminished seventh chord
+"[0, 2, 7, 17]",27,quartal tetramirror
+"[0, 14, 16, 28]",4,whole-tone trichord
+"[0, 7, 24]",2,interval class 5
+"[0, 12, 16, 29]",1,incomplete major-seventh chord
+"[0, 10, 15, 18]",25,half-diminished seventh chord
+"[0, 15, 27, 32]",7,major triad
+"[0, 3, 9, 14]",5,perfect-fourth diminished tetrachord
+"[0, 5, 13, 19]",9,minor-second quartal tetrachord
+"[0, 28]",1,interval class 4
+"[0, 2, 21, 22]",1,phrygian tetrachord
+"[0, 4, 21, 24]",4,minor triad
+"[0, 19, 22]",1,incomplete dominant-seventh chord
+"[0, 7, 16, 21]",186,minor seventh chord
+"[0, 2, 12, 19]",18,quartal trichord
+"[0, 5, 14]",3,incomplete minor-seventh chord
+"[0, 19, 24, 26]",4,quartal trichord
+"[0, 15, 26, 31]",1,major-second minor tetrachord
+"[0, 8, 14, 23]",2,major-third diminished terachord
+"[0, 7, 26, 27]",1,major-second minor tetrachord
+"[0, 10, 14, 22]",2,whole-tone trichord
+"[0, 21, 26, 30]",2,dominant seventh chord
+"[0, 9, 16]",102,minor triad
+"[0, 19, 22, 31]",1,incomplete dominant-seventh chord
+"[0, 4, 11, 21]",11,major-second minor tetrachord
+"[0, 4, 14, 21]",11,perfect-fourth minor tetrachord
+"[0, 13, 15, 17]",2,phrygian tetrachord
+"[0, 2, 16, 21]",1,perfect-fourth minor tetrachord
+"[0, 19, 23, 26]",4,perfect-fourth major tetrachord
+"[0, 12, 22]",2,interval class 2
+"[0, 8, 17, 27]",2,minor seventh chord
+"[0, 5, 7]",78,quartal trichord
+"[0, 16, 19, 22]",29,dominant seventh chord
+"[0, 12, 14, 20]",2,incomplete half-diminished seventh chord
+"[0, 15, 17, 27]",1,incomplete dominant-seventh chord
+"[0, 10, 24, 27]",10,incomplete minor-seventh chord
+"[0, 12, 20, 24]",4,interval class 4
+"[0, 6, 9, 19]",2,minor-second diminished tetrachord
+"[0, 14, 17]",2,incomplete minor-seventh chord
+"[0, 17, 21, 29]",7,major triad
+"[0, 14, 26, 29]",2,incomplete minor-seventh chord
+"[0, 4, 12, 16]",51,interval class 4
+"[0, 7, 10, 14]",16,perfect-fourth minor tetrachord
+"[0, 4, 19, 22]",10,dominant seventh chord
+"[0, 7, 12, 15]",951,minor triad
+"[0, 12, 17, 26]",20,incomplete minor-seventh chord
+"[0, 7, 15, 24]",173,minor triad
+"[0, 6, 15, 22]",22,half-diminished seventh chord
+"[0, 15, 17, 29]",1,incomplete dominant-seventh chord
+"[0, 4, 8, 15]",11,augmented major tetrachord
+"[0, 5, 15, 20]",83,minor seventh chord
+"[0, 5, 8, 17]",42,minor triad
+"[0, 12, 21, 30]",3,diminished triad
+"[0, 16, 26, 31]",1,major-second major tetrachord
+"[0, 10, 16, 21]",1,all-interval tetrachord
+"[0, 15, 21, 31]",1,half-diminished seventh chord
+"[0, 10, 18, 27]",8,half-diminished seventh chord
+"[0, 4, 6, 9]",19,half-diminished seventh chord
+"[0, 8, 10, 15]",1,major-second major tetrachord
+"[0, 8, 12]",2,interval class 4
+"[0, 3, 5, 14]",5,minor tetramirror
+"[0, 1, 5, 9]",1,augmented major tetrachord
+"[0, 5, 10, 20]",1,perfect-fourth minor tetrachord
+"[0, 19, 28, 33]",5,minor seventh chord
+"[0, 16, 18, 21]",18,half-diminished seventh chord
+"[0, 7, 9, 16]",17,minor seventh chord
+"[0, 2, 5, 12]",11,incomplete minor-seventh chord
+"[0, 3, 19]",6,minor triad
+"[0, 4, 7, 24]",7,major triad
+"[0, 14, 17, 31]",1,quartal tetramirror
+"[0, 8, 12, 27]",3,major triad
+"[0, 3, 18, 20]",13,dominant seventh chord
+"[0, 2, 7, 16]",59,major-second major tetrachord
+"[0, 16, 19]",36,major triad
+"[0, 13, 19, 20]",1,double-fourth tetramirror
+"[0, 24, 28, 36]",1,interval class 4
+"[0, 24, 31, 40]",2,major triad
+"[0, 7, 11, 28]",6,major seventh chord
+"[0, 8, 18, 22]",1,whole-tone tetramirror
+"[0, 7, 22, 27]",4,minor seventh chord
+"[0, 12, 16, 28]",41,interval class 4
+"[0, 15, 27, 31]",3,minor triad
+"[0, 3, 9, 15]",144,diminished triad
+"[0, 8, 15, 27]",63,major triad
+"[0, 12, 14, 15]",1,minor trichord
+"[0, 2, 12, 17]",7,incomplete minor-seventh chord
+"[0, 5, 17, 24]",7,interval class 5
+"[0, 5, 10, 15]",19,quartal tetramirror
+"[0, 7, 17, 22]",3,quartal tetramirror
+"[0, 15, 21, 22]",4,minor-second diminished tetrachord
+"[0, 24, 28, 29]",6,incomplete major-seventh chord
+"[0, 6, 11, 19]",1,double-fourth tetramirror
+"[0, 3, 5, 9]",12,dominant seventh chord
+"[0, 5, 16, 26]",1,lydian tetrachord
+"[0, 9, 12, 24]",5,interval class 3
+"[0, 5, 17]",12,interval class 5
+"[0, 5, 9, 19]",8,major-second major tetrachord
+"[0, 15, 20, 30]",38,dominant seventh chord
+"[0, 24, 27, 29]",3,incomplete dominant-seventh chord
+"[0, 24, 26, 31]",1,quartal trichord
+"[0, 17, 24, 29]",2,interval class 5
+"[0, 3, 13, 15]",1,phrygian trichord
+"[0, 22, 24, 31]",7,incomplete dominant-seventh chord
+"[0, 8, 14, 20]",9,incomplete half-diminished seventh chord
+"[0, 10, 14, 21]",3,phrygian tetrachord
+"[0, 13, 15]",1,phrygian trichord
+"[0, 9, 18, 26]",27,dominant seventh chord
+"[0, 3, 10, 22]",5,incomplete minor-seventh chord
+"[0, 10, 15, 24]",30,incomplete minor-seventh chord
+"[0, 8, 15, 30]",2,dominant seventh chord
+"[0, 11, 15, 27]",1,major-minor trichord
+"[0, 7, 9]",7,incomplete minor-seventh chord
+"[0, 3, 7, 19]",25,minor triad
+"[0, 7, 10, 15]",135,minor seventh chord
+"[0, 17, 20, 32]",2,minor triad
+"[0, 7, 15, 25]",4,all-interval tetrachord
+"[0, 4, 19, 21]",6,minor seventh chord
+"[0, 6, 18, 21]",6,diminished triad
+"[0, 16, 17, 24]",2,incomplete major-seventh chord
+"[0, 5, 13, 22]",9,major-second minor tetrachord
+"[0, 14, 15, 24]",1,minor trichord
+"[0, 15, 30, 33]",2,diminished seventh chord
+"[0, 2, 9, 16]",4,perfect-fourth minor tetrachord
+"[0, 3, 10, 17]",80,quartal tetramirror
+"[0, 10, 20, 27]",4,major-second major tetrachord
+"[0, 5, 11, 12]",2,tritone-fourth
+"[0, 5, 14, 24]",14,incomplete minor-seventh chord
+"[0, 14, 24, 26]",1,interval class 2
+"[0, 4, 9, 26]",2,perfect-fourth minor tetrachord
+"[0, 2, 15, 17]",1,minor tetramirror
+"[0, 1, 5, 8]",20,major seventh chord
+"[0, 3, 12]",28,interval class 3
+"[0, 17, 19, 26]",24,quartal tetramirror
+"[0, 14, 29]",1,incomplete minor-seventh chord
+"[0, 3, 18]",1,diminished triad
+"[0, 19, 28, 34]",2,dominant seventh chord
+"[0, 3, 5, 15]",4,incomplete dominant-seventh chord
+"[0, 16, 18, 19]",1,all-interval tetrachord
+"[0, 3, 12, 22]",7,incomplete minor-seventh chord
+"[0, 6, 9, 21]",10,diminished triad
+"[0, 13, 15, 18]",1,minor-second diminished tetrachord
+"[0, 15, 19, 22]",67,minor seventh chord
+"[0, 4, 9, 19]",27,minor seventh chord
+"[0, 10, 19, 21]",2,minor tetramirror
+"[0, 8, 17, 26]",10,half-diminished seventh chord
+"[0, 12, 14, 23]",1,phrygian trichord
+"[0, 1, 10, 18]",11,all-interval tetrachord
+"[0, 16, 19, 23]",59,major seventh chord
+"[0, 12, 20, 25]",1,incomplete major-seventh chord
+"[0, 15, 17, 26]",2,minor tetramirror
+"[0, 8, 14, 15]",5,all-interval tetrachord
+"[0, 6, 9, 18]",8,diminished triad
+"[0, 5, 18, 21]",1,major-diminished tetrachord
+"[0, 16, 24, 26]",1,whole-tone trichord
+"[0, 2, 8, 10]",1,whole-tone tetramirror
+"[0, 3, 19, 24]",10,minor triad
+"[0, 5, 17, 25]",2,incomplete major-seventh chord
+"[0, 7, 11, 16]",76,major seventh chord
+"[0, 8, 23, 26]",1,major-third diminished terachord
+"[0, 17, 23, 26]",9,minor-second diminished tetrachord
+"[0, 14, 18, 24]",1,incomplete dominant-seventh chord
+"[0, 14, 22, 31]",2,perfect-fourth minor tetrachord
+"[0, 6, 8, 20]",5,incomplete dominant-seventh chord
+"[0, 3, 5, 8]",14,minor seventh chord
+"[0, 6, 21, 24]",1,diminished triad
+"[0, 3, 27]",1,interval class 3
+"[0, 8, 20, 30]",2,incomplete dominant-seventh chord
+"[0, 4, 8, 12]",4,augmented triad
+"[0, 20, 24, 27]",6,major triad
+"[0, 14, 19, 21]",14,quartal tetramirror
+"[0, 3, 12, 17]",12,incomplete dominant-seventh chord
+"[0, 5, 15, 21]",26,dominant seventh chord
+"[0, 10, 16, 20]",2,augmented seventh chord
+"[0, 15, 21, 30]",7,diminished seventh chord
+"[0, 5, 9, 21]",20,major triad
+"[0, 7, 19, 26]",8,quartal trichord
+"[0, 15, 21, 27]",100,diminished triad
+"[0, 6, 11, 14]",6,all-interval tetrachord
+"[0, 10, 15, 25]",8,minor tetramirror
+"[0, 19, 22, 24]",27,incomplete dominant-seventh chord
+"[0, 4, 13, 19]",2,major-diminished tetrachord
+"[0, 6, 9]",10,diminished triad
+"[0, 27, 31, 33]",2,half-diminished seventh chord
+"[0, 16, 23, 24]",2,incomplete major-seventh chord
+"[0, 22, 25, 29]",1,major-second minor tetrachord
+"[0, 2, 7, 15]",40,major-second minor tetrachord
+"[0, 9, 24, 27]",24,diminished triad
+"[0, 3, 6, 18]",3,diminished triad
+"[0, 16, 24, 28]",13,interval class 4
+"[0, 18, 22, 24]",8,incomplete half-diminished seventh chord
+"[0, 13, 22, 29]",5,major-second minor tetrachord
+"[0, 1, 3, 15]",1,phrygian trichord
+"[0, 8, 15, 26]",2,all-interval tetrachord
+"[0, 9, 19, 21]",14,incomplete minor-seventh chord
+"[0, 15, 27, 30]",4,diminished triad
+"[0, 26]",1,interval class 2
+"[0, 10, 13, 17]",54,major-second minor tetrachord
+"[0, 10, 14, 20]",5,whole-tone tetramirror
+"[0, 6, 7]",3,tritone-fourth
+"[0, 1, 5, 15]",3,phrygian tetrachord
+"[0, 5, 9, 14]",55,minor seventh chord
+"[0, 9, 18, 28]",13,half-diminished seventh chord
+"[0, 9, 12, 29]",1,major triad
+"[0, 19, 27, 36]",3,minor triad
+"[0, 14, 21, 27]",2,perfect-fourth diminished tetrachord
+"[0, 5, 16]",4,incomplete major-seventh chord
+"[0, 2, 12]",4,interval class 2
+"[0, 16, 20, 28]",2,augmented triad
+"[0, 9, 12, 27]",2,diminished triad
+"[0, 12]",8,unison
+"[0, 3, 9, 18]",37,diminished seventh chord
+"[0, 19, 21, 24]",2,incomplete minor-seventh chord
+"[0, 4, 7, 14]",11,major-second major tetrachord
+"[0, 5, 11, 20]",1,minor-diminished tetrachord
+"[0, 9, 18, 19]",1,minor-second diminished tetrachord
+"[0, 18, 27]",1,diminished triad
+"[0, 21, 24, 28]",16,minor triad
+"[0, 17, 22]",2,quartal trichord
+"[0, 3, 6]",7,diminished triad
+"[0, 3, 12, 21]",74,diminished triad
+"[0, 15, 18, 22]",13,half-diminished seventh chord
+"[0, 5, 12, 19]",163,quartal trichord
+"[0, 11, 16, 21]",25,major-second minor tetrachord
+"[0, 12, 20]",1,interval class 4
+"[0, 12, 15, 32]",7,major triad
+"[0, 10, 19, 26]",13,perfect-fourth minor tetrachord
+"[0, 2, 3, 17]",1,minor tetramirror
+"[0, 2, 6, 15]",1,harmonic minor tetrachord
+"[0, 16, 21, 35]",1,major-second minor tetrachord
+"[0, 16, 19, 24]",928,major triad
+"[0, 15, 19, 21]",170,half-diminished seventh chord
+"[0, 4, 9, 18]",48,half-diminished seventh chord
+"[0, 7, 12, 22]",20,incomplete dominant-seventh chord
+"[0, 4, 11]",2,incomplete major-seventh chord
+"[0, 8, 13, 24]",2,incomplete major-seventh chord
+"[0, 17, 19, 27]",1,perfect-fourth minor tetrachord
+"[0, 7, 15, 26]",2,major-second minor tetrachord
+"[0, 4, 19, 20]",1,augmented major tetrachord
+"[0, 7, 10, 16]",70,dominant seventh chord
+"[0, 6, 18, 22]",5,incomplete half-diminished seventh chord
+"[0, 14, 21, 30]",2,dominant seventh chord
+"[0, 1, 10, 17]",6,major-second minor tetrachord
+"[0, 18, 24, 28]",2,incomplete half-diminished seventh chord
+"[0, 9, 17, 19]",16,major-second major tetrachord
+"[0, 6, 9, 15]",60,diminished seventh chord
+"[0, 13, 18, 20]",1,tritone quartal tetrachord
+"[0, 8, 10, 13]",1,lydian tetrachord
+"[0, 5, 8, 19]",3,major-second minor tetrachord
+"[0, 10, 18, 25]",4,all-interval tetrachord
+"[0, 5, 8, 20]",16,minor triad
+"[0, 12, 18, 28]",7,incomplete half-diminished seventh chord
+"[0, 6, 11]",1,tritone-fourth
+"[0, 3, 20, 27]",3,major triad
+"[0, 10, 12, 28]",2,incomplete dominant-seventh chord
+"[0, 19, 28, 35]",1,major seventh chord
+"[0, 3, 5, 12]",2,incomplete dominant-seventh chord
+"[0, 7, 8, 15]",1,major seventh chord
+"[0, 13, 19, 22]",22,perfect-fourth diminished tetrachord
+"[0, 14, 22, 27]",1,lydian tetrachord
+"[0, 6, 12, 17]",1,tritone-fourth
+"[0, 2, 7, 14]",31,quartal trichord
+"[0, 16, 24]",24,interval class 4
+"[0, 16, 24, 29]",4,incomplete major-seventh chord
+"[0, 18, 22, 25]",2,all-interval tetrachord
+"[0, 8, 18, 20]",9,incomplete dominant-seventh chord
+"[0, 3, 18, 22]",3,half-diminished seventh chord
+"[0, 12, 14, 17]",13,incomplete minor-seventh chord
+"[0, 9, 16, 29]",2,major seventh chord
+"[0, 5, 17, 26]",2,incomplete minor-seventh chord
+"[0, 7, 17, 20]",2,major-second minor tetrachord
+"[0, 7, 14, 28]",1,major-second major tetrachord
+"[0, 21, 28, 29]",1,major seventh chord
+"[0, 6, 14, 21]",103,dominant seventh chord
+"[0, 5, 15, 17]",9,incomplete dominant-seventh chord
+"[0, 16, 20, 29]",5,minor-augmented tetrachord
+"[0, 9, 12, 26]",1,incomplete dominant-seventh chord
+"[0, 5, 19]",3,quartal trichord
+"[0, 19, 29, 36]",1,quartal trichord
+"[0, 3, 9, 19]",16,half-diminished seventh chord
+"[0, 3, 13, 22]",2,minor tetramirror
+"[0, 5, 20]",3,minor triad
+"[0, 21, 24, 29]",2,major triad
+"[0, 20, 27]",5,major triad
+"[0, 2, 4, 10]",1,whole-tone tetramirror
+"[0, 15, 20, 32]",24,major triad
+"[0, 6, 13, 22]",8,all-interval tetrachord
+"[0, 5, 19, 27]",1,perfect-fourth minor tetrachord
+"[0, 14, 17, 20]",7,half-diminished seventh chord
+"[0, 1, 15, 18]",1,minor-second diminished tetrachord
+"[0, 6, 11, 15]",6,major-diminished tetrachord
+"[0, 4, 20, 24]",5,augmented triad
+"[0, 10, 15, 22]",49,incomplete minor-seventh chord
+"[0, 4, 10, 12]",17,incomplete dominant-seventh chord
+"[0, 19, 22, 27]",26,minor seventh chord
+"[0, 14, 20, 23]",7,major-third diminished terachord
+"[0, 3, 4, 19]",1,major-minor tetramirror
+"[0, 7, 19, 27]",15,minor triad
+"[0, 15, 17]",1,incomplete dominant-seventh chord
+"[0, 8, 15, 32]",3,major triad
+"[0, 5, 14, 19]",26,quartal tetramirror
+"[0, 1, 8, 15]",3,perfect-fourth major tetrachord
+"[0, 8, 13, 27]",1,perfect-fourth major tetrachord
+"[0, 10, 20, 25]",1,lydian tetrachord
+"[0, 16, 21, 24]",128,minor triad
+"[0, 9, 12, 13]",1,major-minor trichord
+"[0, 7, 15, 27]",31,minor triad
+"[0, 12, 17, 25]",9,incomplete major-seventh chord
+"[0, 4, 12]",47,interval class 4
+"[0, 7, 10, 17]",8,quartal tetramirror
+"[0, 4, 10]",7,incomplete dominant-seventh chord
+"[0, 7, 16, 31]",1,major triad
+"[0, 3, 7, 20]",1,major seventh chord
+"[0, 16, 17, 22]",1,tritone quartal tetrachord
+"[0, 10, 14, 27]",3,lydian tetrachord
+"[0, 19, 24, 34]",1,incomplete dominant-seventh chord
+"[0, 2, 19, 21]",1,quartal tetramirror
+"[0, 9, 12, 28]",6,minor triad
+"[0, 5, 9, 15]",53,dominant seventh chord
+"[0, 14, 21, 26]",3,incomplete dominant-seventh chord
+"[0, 8, 14, 17]",54,half-diminished seventh chord
+"[0, 5, 13, 24]",1,incomplete major-seventh chord
+"[0, 11, 19, 29]",1,tritone quartal tetrachord
+"[0, 9, 14, 16]",5,perfect-fourth minor tetrachord
+"[0, 12, 15, 17]",9,incomplete dominant-seventh chord
+"[0, 17, 19, 28]",1,perfect-fourth major tetrachord
+"[0, 12, 20, 27]",61,major triad
+"[0, 19, 28, 29]",2,perfect-fourth major tetrachord
+"[0, 3, 17, 19]",2,perfect-fourth minor tetrachord
+"[0, 9, 15, 19]",27,half-diminished seventh chord
+"[0, 8, 15]",249,major triad
+"[0, 5, 12, 14]",23,incomplete minor-seventh chord
+"[0, 3, 5, 13]",4,phrygian tetrachord
+"[0, 12, 19, 28]",407,major triad
+"[0, 3, 7]",91,minor triad
+"[0, 12, 21]",5,interval class 3
+"[0, 8, 27, 32]",1,major triad
+"[0, 3, 12, 20]",211,major triad
+"[0, 12, 15, 31]",3,minor triad
+"[0, 10, 19, 27]",46,minor seventh chord
+"[0, 17, 19, 24]",44,quartal trichord
+"[0, 2, 6, 12]",2,incomplete dominant-seventh chord
+"[0, 10, 21, 28]",2,all-interval tetrachord
+"[0, 24, 29, 31]",6,quartal trichord
+"[0, 15, 19, 20]",24,major seventh chord
+"[0, 4, 9]",95,minor triad
+"[0, 7, 12, 21]",5,incomplete minor-seventh chord
